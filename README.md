@@ -1,1 +1,1 @@
-# CIS17B-S25-33477-Assignment4
+A simple storage management system that uses order and unordered collections. This program is meant to show logic and how unordered and ordered maps can be used in tandem with exceptions, pointers, etc. Although there is no interactivity in this program, the program shows the logic of maps through error handling, insertions, and functions.
