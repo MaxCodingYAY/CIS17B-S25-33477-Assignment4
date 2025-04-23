@@ -111,7 +111,7 @@ int main() {
     std::cout << "Adding Item ITEM001 - Wireless Mouse...\n";
     manage.addItem(item1);
 
-    std::cout << "Adding Item ITEM002 - Bluetooth Speaker...\n";
+    std::cout << "Adding Item ITEM002 - Airpods...\n";
     manage.addItem(item2);
 
     // test function duplicate insertion
